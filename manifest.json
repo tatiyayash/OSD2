@@ -1,13 +1,13 @@
 {
 
   "manifest_version": 2,
-  "name": "Whack-a-mole-master",
+  "name": "agecal",
   "version": "1.0",
 
   "description": "Description here.",
 
   "icons": {
-    "48": "border-48.png"
+    "48": "age.jpg"
   },
 
  "background": {
@@ -15,7 +15,7 @@
  },
     
 "browser_action": {
-    "default_icon": "border-48.png"
+    "default_icon": "age.jpg"
 
 }
 }
